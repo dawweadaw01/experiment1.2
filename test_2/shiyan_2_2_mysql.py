@@ -5,7 +5,7 @@ conn = pymysql.connect(
     host='localhost',  # MySQL服务器地址
     port=3306,  # MySQL服务器端口号
     user='root',  # 用户名
-    password='111111',  # 密码
+    password='123456',  # 密码
     database='pythonprogramming',  # 数据库名称
     charset='utf8mb4'  # 字符集
 )
